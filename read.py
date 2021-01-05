@@ -23,4 +23,5 @@ sum_len = 0
 for d in data:
 	sum_len = sum_len + len(d)
 
+#xxxxx
 #print('留言的平均長度是',sum_len/len(data))
